@@ -1,0 +1,10 @@
+- [ ] Track session clients better.
+- [ ] Fix disconnect propagation and cleanup.
+- [ ] Add better config options.
+- [ ] Better error reporting.
+- [ ] Unit tests.
+- [ ] Fix locale issues.
+- [ ] Don't erase PTY options somehow mediate them.
+- [ ] Explore weird artifacts in curses applications.
+- [ ] Wire up the database.
+- [ ] Work on web ui.
